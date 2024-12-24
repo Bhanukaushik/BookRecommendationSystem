@@ -1,7 +1,7 @@
 # Book Recommendation System
 
 ### Live Demo
-[Access the Live Application Here](#https://booksuggester.streamlit.app/) 
+Access the Live Application Here(https://booksuggester.streamlit.app/) 
 ---
 
 ## Overview
